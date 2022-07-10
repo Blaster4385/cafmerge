@@ -28,4 +28,4 @@ cafmerge --manifest /path/to/manifest.xml --tag LA.UM.KEK
   
 This will begin merging the provided tag into the repos with the `caf` attribute in the manifest.
   
-You can use `cafmerge --manifest /path/to/manifest.xml --show-conflicts` to list all repos among the ones in the manifest with conflicts for manual resolution.
+You can use `cafmerge --manifest /path/to/manifest.xml --show-conflicts` to list all repos among the ones in the manifests with conflicts for manual resolution.
