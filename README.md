@@ -1,5 +1,5 @@
 # cafmerge
-A blazing-fast utility that lets you easily merge CAF tags into your ROM source.
+A blazing-fast utility that lets you easily merge CLO tags into your ROM source.
 
 # Usage
 First, you need a custom manifest:
